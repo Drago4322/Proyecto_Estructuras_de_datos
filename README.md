@@ -10,3 +10,10 @@
 # 5. Incorporar funcionalidades de agenda, facturación y generación de reportes que apoyen la organización y la toma de decisiones dentro de la empresa.
 # 6. Aplicar diferentes estructuras de datos para optimizar el almacenamiento, búsqueda, organización y procesamiento de la información, justificando su uso de acuerdo con las necesidades de cada módulo del sistema.
 # 7. Diseñar una arquitectura escalable y mantenible que facilite la incorporación de nuevas funcionalidades o módulos conforme avance el desarrollo del proyecto y se adquieran nuevos conocimientos durante el curso.
+
+Descripción proyecto: Es una plataforma diseñada para la gestión operativa y administrativa de empresas que presten servicios. La plataforma permite administrar clientes, empleados, órdenes de trabajo, agenda, inventario de recursos/insumos, facturación y reportes desde un solo sistema. Permitiendo controlar de forma organizada todo el ciclo de atención de un servicio, desde la solicitud del cliente hasta la finalización y facturación del trabajo realizado.
+
+El sistema estará orientado a empresas de diferentes sectores, como mantenimiento, reparación, instalaciones, limpieza, soporte técnico, jardinería, electricidad, plomería y otros negocios cuyo modelo de operación se basa en la planificación y ejecución de servicios.
+Evidenciando lo reutilizable y viable que es para desarrollar ya que tenemos un mercado muy amplio para desarrollar nuestro proyecto y comercializarlo cómodamente.
+
+Además de facilitar la administración de la información, el proyecto incorpora la implementación de diversas estructuras de datos para resolver problemas específicos de almacenamiento, búsqueda, organización y procesamiento de información, permitiendo demostrar su aplicación en un entorno práctico.
