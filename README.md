@@ -11,9 +11,14 @@
 # 6. Aplicar diferentes estructuras de datos para optimizar el almacenamiento, búsqueda, organización y procesamiento de la información, justificando su uso de acuerdo con las necesidades de cada módulo del sistema.
 # 7. Diseñar una arquitectura escalable y mantenible que facilite la incorporación de nuevas funcionalidades o módulos conforme avance el desarrollo del proyecto y se adquieran nuevos conocimientos durante el curso.
 
-Descripción:Es una plataforma diseñada para la gestión operativa y administrativa de empresas que presten servicios. La plataforma permite administrar clientes, empleados, órdenes de trabajo, agenda, inventario de recursos/insumos, facturación y reportes desde un solo sistema. Permitiendo controlar de forma organizada todo el ciclo de atención de un servicio, desde la solicitud del cliente hasta la finalización y facturación del trabajo realizado.
+# Descripción:Es una plataforma diseñada para la gestión operativa y administrativa de empresas que presten servicios. La plataforma permite administrar clientes, empleados, órdenes de trabajo, agenda, inventario de recursos/insumos, facturación y reportes desde un solo sistema. Permitiendo controlar de forma organizada todo el ciclo de atención de un servicio, desde la solicitud del cliente hasta la finalización y facturación del trabajo realizado.
 
-El sistema estará orientado a empresas de diferentes sectores, como mantenimiento, reparación, instalaciones, limpieza, soporte técnico, jardinería, electricidad, plomería y otros negocios cuyo modelo de operación se basa en la planificación y ejecución de servicios.
-Evidenciando lo reutilizable y viable que es para desarrollar ya que tenemos un mercado muy amplio para desarrollar nuestro proyecto y comercializarlo cómodamente.
+# El sistema estará orientado a empresas de diferentes sectores, como mantenimiento, reparación, instalaciones, limpieza, soporte técnico, jardinería, electricidad, plomería y otros negocios cuyo modelo de operación se basa en la planificación y ejecución de servicios.
+# Evidenciando lo reutilizable y viable que es para desarrollar ya que tenemos un mercado muy amplio para desarrollar nuestro proyecto y comercializarlo cómodamente.
 
-Además de facilitar la administración de la información, el proyecto incorpora la implementación de diversas estructuras de datos para resolver problemas específicos de almacenamiento, búsqueda, organización y procesamiento de información, permitiendo demostrar su aplicación en un entorno práctico.
+# Además de facilitar la administración de la información, el proyecto incorpora la implementación de diversas estructuras de datos para resolver problemas específicos de almacenamiento, búsqueda, organización y procesamiento de información, permitiendo demostrar su aplicación en un entorno práctico.
+
+# Alcance del Proyecto:El sistema permitirá registrar, consultar, actualizar y eliminar información de cada uno de estos módulos, garantizando la integridad y trazabilidad de los datos durante el flujo de trabajo. Asimismo, facilitará la creación y seguimiento de órdenes de trabajo, la asignación de empleados responsables, la programación de actividades, el control básico de los recursos utilizados en la prestación del servicio y la generación de facturas y reportes administrativos.
+
+# Como parte fundamental será ir agregando los conocimientos aprendidos conforme se esté desarrollando el proyecto, cumpliendo con las necesidades pertinentes para cada clase/modulo.
+# Y así cada vez optimizar más los procesos del mismo software. Tenemos pensado mantener una arquitectura que nos permita la incorporación de nuevas clases/modulos si lo vemos óptimo.
