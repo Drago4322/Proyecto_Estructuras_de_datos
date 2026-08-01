@@ -22,6 +22,24 @@ Desarrollar una plataforma de gestión para empresas prestadoras de servicios qu
 El sistema permitirá registrar, consultar, actualizar y eliminar información de cada uno de estos módulos, garantizando la integridad y trazabilidad de los datos durante el flujo de trabajo. Asimismo, facilitará la creación y seguimiento de órdenes de trabajo, la asignación de empleados responsables, la programación de actividades, el control básico de los recursos utilizados en la prestación del servicio y la generación de facturas y reportes administrativos.
 Como parte fundamental será ir agregando los conocimientos aprendidos conforme se esté desarrollando el proyecto, cumpliendo con las necesidades pertinentes para cada clase/modulo.
 Y así cada vez optimizar más los procesos del mismo software. Tenemos pensado mantener una arquitectura que nos permita la incorporación de nuevas clases/modulos si lo vemos óptimo.
+
+# Políticas para el uso de Inteligencia Artificial (IA)
+Con el fin de promover el aprendizaje, la calidad del desarrollo y el uso responsable de herramientas de Inteligencia Artificial, el equipo establece las siguientes políticas internas para el desarrollo del proyecto ServiFlow.
+
+# Cómo debemos usar la IA
+1. Utilizar la IA únicamente como herramienta de apoyo para resolver dudas o comprender conceptos.
+2. Emplear la IA para generar ejemplos de código que sirvan como guía, no como solución definitiva.
+3. Usar la IA para detectar posibles errores y sugerir mejoras al código desarrollado por el equipo.
+4. Consultar la IA para obtener explicaciones sobre tecnologías, librerías o buenas prácticas de programación.
+5. Revisar y comprender toda la información generada por la IA antes de incorporarla al proyecto.
+
+# Cómo no debemos usar la IA
+1. No utilizar la IA para generar el proyecto completo o una funcionalidad completa sin participación del desarrollador.
+2. No copiar y pegar código generado por la IA sin entender cómo funciona.
+3. No entregar contenido generado por IA como si fuera completamente elaborado por el equipo.
+4. No depender de la IA para tomar todas las decisiones de desarrollo.
+5. No aceptar como correctas todas las respuestas de la IA sin verificarlas previamente.
+
 # Participantes y roles de cada participante
 - Drago4322 (Líder del proyecto)
 - Emxnuel07
