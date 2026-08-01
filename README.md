@@ -23,6 +23,6 @@ El sistema permitirá registrar, consultar, actualizar y eliminar información d
 Como parte fundamental será ir agregando los conocimientos aprendidos conforme se esté desarrollando el proyecto, cumpliendo con las necesidades pertinentes para cada clase/modulo.
 Y así cada vez optimizar más los procesos del mismo software. Tenemos pensado mantener una arquitectura que nos permita la incorporación de nuevas clases/modulos si lo vemos óptimo.
 # Participantes y roles de cada participante
-# Drago4322 (Líder del proyecto)
-# Emxnuel07
-# TheGhost0888
+- Drago4322 (Líder del proyecto)
+- Emxnuel07
+- TheGhost0888
