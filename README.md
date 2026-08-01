@@ -22,3 +22,7 @@ Desarrollar una plataforma de gestión para empresas prestadoras de servicios qu
 El sistema permitirá registrar, consultar, actualizar y eliminar información de cada uno de estos módulos, garantizando la integridad y trazabilidad de los datos durante el flujo de trabajo. Asimismo, facilitará la creación y seguimiento de órdenes de trabajo, la asignación de empleados responsables, la programación de actividades, el control básico de los recursos utilizados en la prestación del servicio y la generación de facturas y reportes administrativos.
 Como parte fundamental será ir agregando los conocimientos aprendidos conforme se esté desarrollando el proyecto, cumpliendo con las necesidades pertinentes para cada clase/modulo.
 Y así cada vez optimizar más los procesos del mismo software. Tenemos pensado mantener una arquitectura que nos permita la incorporación de nuevas clases/modulos si lo vemos óptimo.
+# Participantes y roles de cada participante
+# Drago4322 (Líder del proyecto)
+# Emxnuel07
+# TheGhost0888
