@@ -24,7 +24,7 @@ Como parte fundamental será ir agregando los conocimientos aprendidos conforme 
 Y así cada vez optimizar más los procesos del mismo software. Tenemos pensado mantener una arquitectura que nos permita la incorporación de nuevas clases/modulos si lo vemos óptimo.
 
 # Políticas para el uso de Inteligencia Artificial (IA)
-Con el fin de promover el aprendizaje, la calidad del desarrollo y el uso responsable de herramientas de Inteligencia Artificial, el equipo establece las siguientes políticas internas para el desarrollo del proyecto ServiFlow.
+Con el fin de promover el aprendizaje, la calidad del desarrollo y el uso responsable de herramientas de Inteligencia Artificial, el equipo establece las siguientes políticas internas para el desarrollo del proyecto AdminEasy.
 
 # Cómo debemos usar la IA
 1. Utilizar la IA únicamente como herramienta de apoyo para resolver dudas o comprender conceptos.
@@ -43,4 +43,3 @@ Con el fin de promover el aprendizaje, la calidad del desarrollo y el uso respon
 # Participantes y roles de cada participante
 - Drago4322 (Líder del proyecto)
 - Emxnuel07
-- TheGhost0888
