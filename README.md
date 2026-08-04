@@ -1,5 +1,5 @@
 # Proyecto_Estructuras_de_datos
-# ServiFlow
+# AdminEasy
 # Objetivo General
 Desarrollar una plataforma de gestión para empresas prestadoras de servicios que permita administrar y optimizar los procesos operativos y administrativos mediante la implementación de estructuras de datos, facilitando la gestión de clientes, empleados, órdenes de trabajo, recursos, facturación y reportes en un entorno organizado, escalable y adaptable
 # Objetivos Específicos
